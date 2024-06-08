@@ -28,5 +28,4 @@ jobs:
         context: .
         file: Dockerfile
         push: true
-        tags: my-image-name:latest
-        build-args: --progress=plain
+        tags: streambot:latest
